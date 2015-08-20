@@ -1,0 +1,17 @@
+.hidden{
+    display: none;
+}
+
+.item-list{
+    position: absolute;
+    top:12px;
+    left:122px;
+    width: 94px;
+    list-style-type: none;
+    padding: 8px 10px 8px 10px;
+    border: 1px solid #ccc;
+}
+
+.selected{
+    background-color: blue;
+}
